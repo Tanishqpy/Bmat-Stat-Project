@@ -1,0 +1,12 @@
+"Relationship","ChiSquare","DoF","PValue","Significant"
+"Place of residence vs bikesharing",5.4120676995677,3,0.143993566065549,FALSE
+"Indicate your age vs e-bike",17.0609175954295,12,0.147320127540283,FALSE
+"Place of residence vs e-bike",8.74199313703606,6,0.188616547164591,FALSE
+"Indicate your gender vs bikesharing",3.03191445490902,2,0.21959787908978,FALSE
+"Indicate your age vs bikesharing",7.77645914196181,6,0.254942238887789,FALSE
+"What is your employment status? vs bikesharing",4.4799597304706,6,0.612014027636538,FALSE
+"bikesharing vs e-bike",35.9990922190909,2,1.5236894056193e-08,TRUE
+"Indicate your gender vs e-bike",24.1298551601406,4,7.52273102920024e-05,TRUE
+"Level of education vs e-bike",24.1707574501421,8,0.00214544988653254,TRUE
+"Level of education vs bikesharing",16.6200973267335,4,0.00229057054744579,TRUE
+"What is your employment status? vs e-bike",24.3943092945082,12,0.0179687273201548,TRUE
