@@ -1,0 +1,371 @@
+Start timestamp,Have you ever used bikesharing (shared bicycles)?,How often?,In which city?,"If you answered in another city, which one?",For what type of trips (Indicate the most common when you have used this service),"If available, would you use a shared electric bike system in Santander?",How often?,For what type of trips (Indicate the most common for which you would use it),Indicate your gender,Indicate your age,What is your employment status?,Profession,Level of education,Place of residence,"Street, neighborhood, or postal code of residence in Santander",Scenario_1,Scenario_2,Scenario_3,Scenario_4,Scenario_5,Scenario_6,Scenario_10,Scenario_11,Scenario_12,End timestamp
+2023-07-11 11:16:38.185107,No,,,,,Yes,Weekly,Leisure,Female,35-44,Employee,Researcher,University,Santander,39011,1,1,1,2,1,1,1,1,1,2023-07-11 11:18:10.688187
+2023-07-11 11:49:36.519671,Yes,Occasionally,Santander,,Leisure,Don’t know/depends,Occasionally,Leisure,Male,25-34,Employee,Researcher,University,Santander,39007,1,1,1,1,1,1,2,1,1,2023-07-11 12:00:41.540462
+2023-07-11 12:03:37.418273,Yes,Occasionally,Santander,,Leisure,Yes,Occasionally,Leisure,Female,65-74,Retired,,University,Santander,39140,1,1,1,1,2,1,1,1,1,2023-07-11 12:08:31.842456
+2023-07-11 12:08:33.205361,Yes,Occasionally,Santander,,Leisure,Yes,Occasionally,Leisure,Female,65-74,Retired,,University,Cantabria,39140,1,1,1,1,1,1,2,2,2,2023-07-11 12:10:51.803418
+2023-07-11 12:08:33.205361,Yes,Occasionally,Santander,,Leisure,Yes,Occasionally,Leisure,Female,65-74,Retired,,University,Cantabria,39140,1,1,1,1,1,1,1,1,1,2023-07-11 12:12:04.714281
+2023-07-11 12:42:10.667807,No,,,,,Yes,Occasionally,Leisure,Female,55-64,Employee,,None,Spain,,1,1,1,1,1,1,1,1,1,2023-07-11 12:45:46.894053
+2023-07-11 12:29:23.413954,Yes,Weekly,Other,Burgos,Leisure,Yes,Weekly,Leisure,Male,75 and over,Retired,Telecommunication technician,University,Spain,,1,1,2,2,2,1,1,1,1,2023-07-11 12:49:38.190730
+2023-07-11 12:45:08.800820,Yes,Occasionally,Santander,,Leisure,Yes,Monthly,Leisure,Female,25-34,Student,,University,Santander,39009,2,2,2,2,2,2,1,1,1,2023-07-11 12:52:15.102031
+2023-07-11 12:49:11.363247,No,,,,,No,,,Female,65-74,Retired,Secretary,High School Diploma,Santander,39009,,,,,,,,,,2023-07-11 12:52:47.033045
+2023-07-11 12:49:39.996671,Yes,Occasionally,Santander,,Leisure,Yes,Occasionally,Leisure,Female,25-34,Employee,Industry,University,Santander,,1,1,2,2,1,1,2,1,1,2023-07-11 12:53:31.493490
+2023-07-11 12:52:48.826133,Yes,Occasionally,Other,Sevilla,Other,Yes,Occasionally,Other,Female,Under 25,Unemployed,No,University,Spain,Madrid,1,1,1,1,1,1,2,1,1,2023-07-11 12:56:09.953303
+2023-07-11 12:45:47.983069,No,,,,,No,,,Male,65-74,Retired,,High School Diploma,Santander,39011,,,,,,,,,,2023-07-11 12:57:41.236030
+2023-07-11 12:53:33.150219,No,,,,,Yes,Occasionally,Leisure,Female,55-64,Self-employed,,High School,Santander,39011,1,1,2,2,1,2,1,1,1,2023-07-11 12:57:53.822167
+2023-07-11 12:56:12.920182,Yes,Occasionally,Other,Avila,Leisure,Don’t know/depends,Occasionally,Leisure,Female,55-64,Employee,Vigilant,High School Diploma,Spain,Avila,2,2,2,2,2,2,2,1,1,2023-07-11 13:02:39.556491
+2023-07-11 12:57:55.448901,No,,,,,Yes,Occasionally,Work,Male,Under 25,Student,,School graduate,Spain,,2,2,2,2,2,1,2,1,1,2023-07-11 13:03:08.077891
+2023-07-11 12:57:42.102860,Yes,Weekly,Santander,,Studies,Yes,Weekly,Studies,Male,Under 25,Student,,High School,Spain,,2,2,1,2,2,1,2,1,1,2023-07-11 13:03:08.635261
+2023-07-11 12:52:18.968265,Yes,Occasionally,Santander,,Leisure,No,,,Male,65-74,Retired,Official,University,Santander,39002,,,,,,,,,,2023-07-11 13:04:17.675997
+2023-07-11 13:02:41.268428,No,,,,,Yes,Occasionally,Other,Female,45-54,Self-employed,Nurse,High School Diploma,Outside of Spain,Italia,2,2,2,2,2,2,1,1,1,2023-07-11 13:05:55.921461
+2023-07-11 13:03:09.925241,No,,,,,Yes,Weekly,Leisure,Male,Under 25,Employee,Life guard,University,Santander,39002,1,1,1,2,1,1,1,1,1,2023-07-11 13:06:23.752186
+2023-07-11 13:03:10.910957,No,,,,,Yes,Occasionally,Work,Male,Under 25,Employee,,University,Santander,39002,1,1,1,2,1,1,1,1,1,2023-07-11 13:06:38.440104
+2023-07-11 13:05:58.340126,Yes,Occasionally,Other,Valencia y Madrid,Leisure,Don’t know/depends,Occasionally,Leisure,Female,35-44,Self-employed,Doctor,University,Spain,Valencia,2,2,2,2,2,2,1,1,1,2023-07-11 13:09:09.910432
+2023-07-11 13:06:25.521573,No,,,,,Yes,Daily,Health,Male,55-64,Retired,,High School Diploma,Spain,,1,1,1,1,1,1,2,2,1,2023-07-11 13:11:03.720044
+2023-07-11 13:06:39.340090,No,,,,,Yes,Occasionally,Leisure,Female,55-64,Retired,,High School Diploma,Spain,,1,1,1,2,1,1,2,2,1,2023-07-11 13:11:03.876649
+2023-07-11 13:09:11.204872,No,,,,,No,,,Male,45-54,Employee,Administrator,High School Diploma,Cantabria,Eras,,,,,,,,,,2023-07-11 13:11:09.850944
+2023-07-11 13:11:05.427535,Yes,Occasionally,Other,Vitoria,Leisure,Yes,Occasionally,Leisure,Female,45-54,Employee,,High School Diploma,Spain,,1,1,1,1,1,1,2,1,1,2023-07-11 13:18:13.618297
+2023-07-11 13:11:11.624508,No,,,,,Yes,Occasionally,Leisure,Female,45-54,Unemployed,Engineer,University,Outside of Spain,California,2,2,1,2,2,1,2,1,1,2023-07-11 13:18:29.051996
+2023-07-11 13:11:06.221302,No,,,,,Yes,Occasionally,Leisure,Female,35-44,Employee,,University,Spain,Vitoria,1,1,1,1,1,1,1,1,1,2023-07-11 13:18:45.059532
+2023-07-11 13:18:30.393683,Yes,Occasionally,Other,Salamanca y Madrid. Amsterdam,Other,Yes,Occasionally,Leisure,Female,Under 25,Self-employed,Nurse,University,Spain,Bilbao,2,2,2,2,2,2,2,1,1,2023-07-11 13:21:45.727497
+2023-07-11 13:18:15.357303,No,,,,,Yes,Weekly,Studies,Male,25-34,Student,Student,High School Diploma,Cantabria,,1,1,2,2,1,1,1,1,1,2023-07-11 13:24:45.986530
+2023-07-11 13:21:46.988734,No,,,,,Don’t know/depends,Occasionally,Leisure,Male,35-44,Employee,Plumbing,High School Diploma,Santander,39011,1,1,1,2,1,1,1,1,1,2023-07-11 13:25:20.299725
+2023-07-11 13:18:46.396392,Yes,Occasionally,Santander,,Health,Yes,Monthly,Health,Male,55-64,Retired,,High School,Santander,39005,1,1,1,2,1,1,2,2,1,2023-07-11 13:25:45.825523
+2023-07-11 13:25:23.309649,No,,,,,Don’t know/depends,,,Female,55-64,Unemployed,Social educator,University,Spain,Barcelona,2,2,2,2,2,2,1,1,1,2023-07-11 13:29:03.467091
+2023-07-11 13:24:47.593958,No,,,,,No,,,Prefer not to specify,25-34,Unemployed,Cleaning,School graduate,Santander,,,,,,,,,,,2023-07-11 13:31:15.277266
+2023-07-11 13:31:16.565061,No,,,,,No,,,Male,55-64,Retired,Commercial,University,Santander,,,,,,,,,,,2023-07-11 13:31:42.305391
+2023-07-11 13:25:46.912894,No,,,,,Don’t know/depends,Weekly,Studies,Prefer not to specify,Under 25,Student,,High School Diploma,Santander,39011,2,2,1,2,2,1,2,2,1,2023-07-11 13:31:45.107529
+2023-07-11 13:31:43.576000,Yes,Occasionally,Santander,,Leisure,Yes,Occasionally,Leisure,Female,45-54,Housework,Housewife,,Cantabria,,2,1,2,2,1,2,2,1,1,2023-07-11 13:33:29.750269
+2023-07-11 13:29:05.994827,No,,,,,Don’t know/depends,Occasionally,Leisure,Male,Under 25,Self-employed,Recionist,High School Diploma,Cantabria,Soto la Marina,2,2,2,2,2,2,2,1,1,2023-07-11 13:34:46.210906
+2023-07-11 13:34:31.642845,No,,,,,Don’t know/depends,Weekly,Work,Male,35-44,Employee,Official,University,Santander,39011,2,1,1,1,1,1,2,2,1,2023-07-11 13:36:48.905110
+2023-07-11 13:34:48.108433,No,,,,,Yes,Occasionally,Leisure,Female,55-64,Self-employed,Teacher,High School Diploma,Santander,39007,2,2,2,2,1,2,1,1,1,2023-07-11 13:39:24.887518
+2023-07-11 13:39:26.362325,No,,,,,No,,,Female,25-34,Self-employed,Military,High School Diploma,Spain,Zaragoza,,,,,,,,,,2023-07-11 13:44:03.397606
+2023-07-11 13:44:04.680641,No,,,,,No,,,Female,45-54,Unemployed,No,School graduate,Santander,39004,,,,,,,,,,2023-07-11 13:53:11.860099
+2023-07-11 13:47:48.224706,Yes,Occasionally,Santander,,Leisure,No,,,Female,35-44,Employee,Receptionist,High School Diploma,Santander,39009,,,,,,,,,,2023-07-11 13:53:27.337543
+2023-07-11 13:33:31.288126,No,,,,,Yes,Occasionally,Shopping,Female,65-74,Retired,Teacher,University,Spain,,1,1,1,1,1,1,1,1,1,2023-07-11 13:53:56.654996
+2023-07-11 13:53:13.451128,No,,,,,No,,,Female,55-64,Employee,Assistant,High School Diploma,Santander,39012,,,,,,,,,,2023-07-11 13:54:45.672480
+2023-07-11 13:54:47.276970,Yes,Occasionally,Other,Madrid,Leisure,Yes,Occasionally,Leisure,Male,35-44,Employee,Engineer,University,Spain,Madrid,1,1,1,1,1,1,1,1,1,2023-07-11 13:56:54.570743
+2023-07-11 13:56:55.830163,No,,,,,Yes,Weekly,Leisure,Male,35-44,Student,Coach,High School Diploma,Santander,39003,2,1,2,2,1,2,2,2,1,2023-07-11 13:59:21.221753
+2023-07-11 13:53:28.446879,No,,,,,Don’t know/depends,Occasionally,Administrative tasks,Male,45-54,Retired,8,School graduate,Santander,39012,1,1,1,1,1,1,1,1,1,2023-07-11 14:00:43.621771
+2023-07-11 13:59:22.931800,No,,,,,Yes,Daily,Leisure,Male,55-64,Employee,Driver,School graduate,Spain,Barcelona,1,1,1,2,1,1,1,1,1,2023-07-11 14:04:45.760730
+2023-07-11 14:04:47.242430,No,,,,,Yes,Occasionally,Leisure,Female,45-54,Employee,Fishwife,High School Diploma,Spain,Barcelona,2,2,2,2,2,2,2,1,1,2023-07-11 14:06:18.335338
+2023-07-11 14:00:45.152366,Yes,Occasionally,Other,Madrid ,Leisure,Yes,Daily,Work,Male,35-44,Employee,Chef,High School,Santander,39011,1,1,1,1,1,1,2,2,1,2023-07-11 14:09:00.408567
+2023-07-11 14:06:19.947668,No,,,,,Don’t know/depends,Weekly,Leisure,Male,65-74,Retired,Worker,School graduate,Cantabria,Maliaño,2,2,2,2,2,2,1,1,1,2023-07-11 14:10:01.453046
+2023-07-11 14:10:02.926099,Yes,Occasionally,Santander,Madrid,Leisure,No,,,Female,35-44,Self-employed,Administrator,University,Santander,39004,,,,,,,,,,2023-07-11 14:11:22.131335
+2023-07-11 14:09:01.830692,Yes,Weekly,Santander,,Leisure,Yes,Daily,Leisure,Male,65-74,Retired,Official,High School Diploma,Santander,39001,2,2,1,2,2,1,2,2,2,2023-07-11 14:15:42.793080
+2023-07-11 14:11:23.751265,Yes,Occasionally,Other,Torrelavega,Other,Yes,Occasionally,Leisure,Male,25-34,Employee,Mechanic,High School,Cantabria,Torrelavega,2,1,2,2,1,2,2,2,1,2023-07-11 14:15:55.099191
+2023-07-11 14:15:57.075315,Yes,Occasionally,Santander,Parallas,Leisure,Yes,Weekly,Leisure,Female,65-74,Retired,Concierge,High School,Santander,Los encinares,1,1,2,2,2,1,2,2,1,2023-07-11 14:20:53.978166
+2023-07-11 14:20:56.474724,No,,,,,No,,,Female,35-44,Employee,Vet,High School Diploma,Santander,39008,,,,,,,,,,2023-07-11 14:24:06.294934
+2023-07-11 14:24:08.049688,Yes,Occasionally,Santander,"Nueva York, Paris",Leisure,Yes,Occasionally,Leisure,Female,45-54,Employee,Teacher,University,Santander,39006,2,1,2,2,2,1,1,1,1,2023-07-11 14:28:12.985679
+2023-07-11 14:15:44.323579,No,,,,,Yes,Weekly,Leisure,Female,45-54,Employee,Official,University,Santander,39012,2,1,1,1,2,1,2,2,1,2023-07-11 14:35:59.559827
+2023-07-11 15:21:52.917586,Yes,Occasionally,Santander,,Leisure,Yes,Occasionally,Leisure,Female,65-74,Retired,,University,Cantabria,39140,1,1,2,2,1,1,1,1,1,2023-07-11 15:24:59.104775
+2023-07-11 17:56:32.549167,,,,,,,,,,,1,,,,,1,1,1,1,1,1,1,1,1,2023-07-11 17:57:59.591153
+2023-07-11 13:31:45.961270,No,,,,,No,,,Female,25-34,Employee,Banking agent,University,Cantabria,39611,,,,,,,,,,2023-07-11 19:00:34.998607
+2023-07-11 19:02:57.711583,Yes,Occasionally,Santander,,Administrative tasks,Yes,Weekly,Work,Female,25-34,Self-employed,Psychology,University,Santander,39002,2,1,2,2,1,2,1,1,1,2023-07-11 19:04:22.046452
+2023-07-11 19:00:35.793718,Yes,Occasionally,Santander,,Leisure,Don’t know/depends,Occasionally,Leisure,Male,25-34,Employee,Technical Designer,High School Diploma,Cantabria,39611,2,1,2,2,2,2,1,1,1,2023-07-11 19:04:47.411043
+2023-07-11 21:50:19.525711,No,,,,,No,,,Male,45-54,Employee,Computer,University,Cantabria,,,,,,,,,,,2023-07-11 21:52:03.881014
+2023-07-12 06:33:29.330523,No,,,,,No,,,Male,Under 25,Student,,University,Cantabria,,,,,,,,,,,2023-07-12 06:34:44.372966
+2023-07-12 06:34:45.616618,No,,,,,No,,,Female,25-34,Employee,,University,Santander,,,,,,,,,,,2023-07-12 07:04:14.590392
+2023-07-12 07:03:50.109138,Yes,Occasionally,Santander,,Sport,Yes,Occasionally,Sport,Female,35-44,Employee,Lawyer,University,Santander,Calle Alta,2,2,2,2,2,2,1,1,1,2023-07-12 07:08:47.928689
+2023-07-12 07:08:49.806455,No,,,,,Don’t know/depends,Monthly,Leisure,Prefer not to specify,55-64,Unemployed,,High School,Cantabria,,1,1,2,2,1,1,2,2,1,2023-07-12 07:14:23.174747
+2023-07-12 06:57:51.726336,No,,,,,Yes,,,Female,55-64,Employee,Repair officer,High School Diploma,Santander,39011,1,1,1,2,1,1,1,2,1,2023-07-12 07:14:58.267455
+2023-07-12 07:04:16.412497,Yes,Occasionally,Other,Madrid,Leisure,Yes,Weekly,Leisure,Female,35-44,Employee,Waiter,High School Diploma,Santander,39011,2,1,2,2,1,2,2,2,1,2023-07-12 07:15:56.523262
+2023-07-12 07:14:59.817378,No,,,,,No,,,Male,45-54,Employee,Repair officer,High School Diploma,Santander,39001,,,,,,,,,,2023-07-12 07:16:16.401280
+2023-07-12 07:16:18.129548,No,,,,,Yes,Occasionally,Leisure,Male,55-64,Employee,Repair officer,High School Diploma,Cantabria,,2,2,2,2,2,1,2,1,1,2023-07-12 07:19:42.453612
+2023-07-12 07:15:58.182447,No,,,,,Yes,Weekly,Studies,Male,Under 25,Student,,High School,Santander,39004,2,2,2,2,2,1,1,1,1,2023-07-12 07:20:17.175167
+2023-07-12 07:19:44.123389,No,,,,,No,,,Female,45-54,Employee,Official,University,Cantabria,,,,,,,,,,,2023-07-12 07:22:17.761934
+2023-07-12 07:23:32.695190,No,,,,,No,,,Female,55-64,Employee,Official,High School Diploma,Santander,39006,,,,,,,,,,2023-07-12 07:24:39.704172
+2023-07-12 07:24:40.596077,No,,,,,Yes,Daily,Studies,Female,Under 25,Student,,High School Diploma,Santander,39008,2,2,1,2,2,1,1,1,1,2023-07-12 07:29:12.396674
+2023-07-12 07:27:11.468437,No,,,,,No,,,Male,25-34,Employee,Doctoral,University,Santander,39004,,,,,,,,,,2023-07-12 07:29:20.416083
+2023-07-12 07:20:18.721671,No,,,,,No,,,Female,45-54,1,,High School Diploma,Outside of Spain,,,,,,,,,,,2023-07-12 07:30:49.210750
+2023-07-12 07:14:24.932210,No,,,,,Yes,Occasionally,Leisure,Male,Under 25,Student,,High School Diploma,Outside of Spain,,1,1,2,2,2,2,1,1,1,2023-07-12 07:31:22.831965
+2023-07-12 07:31:24.965561,No,,,,,Yes,Occasionally,Leisure,Male,45-54,Employee,,High School Diploma,Cantabria,,1,1,1,1,1,1,2,2,2,2023-07-12 07:33:58.529395
+2023-07-12 07:29:13.346512,No,,,,,Yes,Daily,Leisure,Female,45-54,Employee,Teacher,University,Santander,39011,2,2,1,2,2,1,2,1,1,2023-07-12 07:34:22.692281
+2023-07-12 07:30:50.957209,No,,,,,Yes,,Work,Male,45-54,Employee,,High School Diploma,Santander,39006,1,1,2,2,1,1,1,1,1,2023-07-12 07:34:53.276431
+2023-07-12 07:34:00.127852,No,,,,,No,,,Female,65-74,Retired,,High School,Santander,,,,,,,,,,,2023-07-12 07:35:02.477238
+2023-07-12 07:34:23.619171,No,,,,,Yes,Occasionally,Leisure,Male,45-54,Employee,Teacher,University,Santander,39005,2,2,1,2,2,1,2,2,1,2023-07-12 07:35:55.771888
+2023-07-12 07:35:03.833975,No,,,,,No,,,Male,45-54,Employee,,High School Diploma,Santander,39011,,,,,,,,,,2023-07-12 07:36:45.556456
+2023-07-12 07:34:55.354529,No,,,,,Don’t know/depends,Weekly,Work,Male,25-34,Employee,Official,University,Santander,39011,2,1,2,2,1,1,1,1,1,2023-07-12 07:38:42.271773
+2023-07-12 07:38:35.135551,Yes,Occasionally,Other,Londres,Leisure,Yes,Daily,Leisure,Female,55-64,Employee,Sevices assistant,High School Diploma,Cantabria,,1,1,1,2,2,1,2,2,2,2023-07-12 07:43:30.402597
+2023-07-12 07:36:47.645419,No,,,,,No,,,Male,65-74,Unemployed,,High School,Santander,Calle San José,,,,,,,,,,2023-07-12 07:43:57.950983
+2023-07-12 07:38:44.041974,No,,,,,Don’t know/depends,Daily,Work,Male,35-44,Employee,Crystal,High School Diploma,Santander,39011,2,1,2,2,1,2,1,1,1,2023-07-12 07:45:20.119034
+2023-07-12 07:43:31.709834,No,,,,,No,,,Male,55-64,Employee,Administration and Services Assistant,High School Diploma,Santander,39005,,,,,,,,,,2023-07-12 07:45:38.985741
+2023-07-12 07:43:59.493914,Yes,Occasionally,Other,Madrid,Leisure,Yes,Occasionally,Leisure,Male,35-44,Employee,Businessman,High School Diploma,Santander,,2,1,2,2,1,2,2,1,1,2023-07-12 07:45:51.039617
+2023-07-12 07:35:56.876216,Yes,Occasionally,Santander,,Leisure,Yes,Weekly,Work,Male,25-34,Self-employed,Architect,University,Cantabria,,2,1,2,2,2,1,2,2,2,2023-07-12 07:46:27.317132
+2023-07-12 07:45:53.154061,Yes,Weekly,Santander,,Studies,Yes,Weekly,Studies,Prefer not to specify,Under 25,Student,,University,Cantabria,,2,2,2,2,2,2,2,1,1,2023-07-12 07:48:05.992726
+2023-07-12 07:45:22.326790,No,,,,,Yes,Occasionally,Leisure,Male,25-34,Employee,Nursing assistant,High School Diploma,Santander,39001,2,1,2,2,1,1,1,1,1,2023-07-12 07:49:48.940744
+2023-07-12 07:48:07.654867,No,,,,,Yes,Weekly,Administrative tasks,Female,45-54,Employee,Administrative,University,Santander,Cazoña,2,1,2,2,1,1,2,2,1,2023-07-12 07:53:01.588966
+2023-07-12 07:46:28.316857,No,,,,,Yes,Weekly,Leisure,Male,Under 25,Employee,Researcher,University,Spain,,1,1,1,2,1,1,2,1,1,2023-07-12 07:57:24.406244
+2023-07-12 07:51:52.378894,No,,,,,Yes,Occasionally,Work,Male,25-34,Employee,Doctoral student,University,Santander,39001,2,1,2,2,2,1,1,1,1,2023-07-12 07:57:37.780589
+2023-07-12 07:58:44.467827,,,,,,No,,,Male,35-44,Unemployed,,School graduate,Santander,Polio,,,,,,,,,,2023-07-12 08:00:12.852906
+2023-07-12 07:53:03.397834,Yes,Occasionally,Other,Bilbao,Leisure,Don’t know/depends,Occasionally,Leisure,Male,75 and over,Retired,Administrative,University,Santander,39007,2,1,2,2,2,2,2,1,1,2023-07-12 08:02:08.378632
+2023-07-12 07:57:25.398791,No,,,,,No,,,Male,Under 25,Student,,University,Santander,39006,,,,,,,,,,2023-07-12 08:02:32.966374
+2023-07-12 07:49:50.696048,No,,,,,Don’t know/depends,Occasionally,Leisure,Male,65-74,Retired,Banking,University,Santander,39007,2,2,2,2,2,2,1,1,1,2023-07-12 08:03:02.676209
+2023-07-12 07:57:39.323655,No,,,,,Yes,Occasionally,Leisure,Female,Under 25,Student,,University,Cantabria,,1,1,1,2,2,1,2,2,2,2023-07-12 08:04:53.744041
+2023-07-12 08:00:15.401774,Yes,Occasionally,Other,Torrelavega,Leisure,Yes,Weekly,Leisure,Male,65-74,Retired,,University,Cantabria,,1,1,1,1,1,1,1,1,1,2023-07-12 08:06:03.816205
+2023-07-12 08:04:56.026822,Yes,Occasionally,Other,Barcelona,Leisure,Yes,Occasionally,Studies,Female,Under 25,Student,,University,Cantabria,,1,1,1,2,1,1,1,1,1,2023-07-12 08:07:57.424881
+2023-07-12 08:02:33.839901,No,,,,,Yes,Occasionally,Leisure,Female,55-64,Employee,Official,University,Santander,39005,2,2,2,2,2,1,2,2,1,2023-07-12 08:14:05.743719
+2023-07-12 08:03:04.736727,No,,,,,Yes,Monthly,Sport,Female,35-44,Employee,Waitress,School graduate,Santander,39007,2,2,2,2,2,2,1,1,1,2023-07-12 08:14:09.862050
+2023-07-12 08:06:07.563006,No,,,,,Yes,Daily,Studies,Male,Under 25,Unemployed,Logistics,University,Cantabria,,1,1,1,2,1,1,2,1,1,2023-07-12 08:16:07.238763
+2023-07-12 08:14:06.743495,No,,,,,No,,,Female,65-74,Employee,Official,University,Santander,39011,,,,,,,,,,2023-07-12 08:20:33.307484
+2023-07-12 08:07:59.099441,No,,,,,No,,,Female,55-64,Employee,Official,University,Cantabria,,,,,,,,,,,2023-07-12 08:20:35.182675
+2023-07-12 08:16:10.975637,No,,,,,Yes,Occasionally,Leisure,Male,55-64,Employee,Electromecano,,,Electromecanico,1,1,2,2,2,1,2,2,2,2023-07-12 08:21:57.869162
+2023-07-12 08:14:11.466432,No,,,,,No,,,Female,Under 25,Student,,High School,Santander,39007,,,,,,,,,,2023-07-12 08:24:06.853254
+2023-07-12 08:20:34.356093,No,,,,,No,,,Female,45-54,Employee,Official,High School Diploma,Cantabria,,,,,,,,,,,2023-07-12 08:28:49.317690
+2023-07-12 08:22:20.615649,Yes,Occasionally,Santander,,Other,Don’t know/depends,Occasionally,Other,Female,55-64,Employee,Teacher,University,Cantabria,39140,1,1,2,2,1,1,1,1,1,2023-07-12 08:29:01.317317
+2023-07-12 08:22:01.239268,Yes,Occasionally,Other,Australia,Work,Yes,Occasionally,Work,Male,65-74,Self-employed,Communications,University,Outside of Spain,,2,1,1,2,2,1,2,2,1,2023-07-12 08:30:57.197422
+2023-07-12 08:02:10.488755,Yes,Occasionally,Santander,,Work,Yes,Weekly,Work,Male,45-54,Employee,,University,Santander,39011,1,1,1,2,1,1,2,2,1,2023-07-12 08:39:29.026828
+2023-07-12 08:31:01.015615,No,,,,,Yes,Daily,Work,Female,35-44,Employee,Hairdresser,High School Diploma,Santander,39005,2,1,2,2,2,1,2,2,2,2023-07-12 08:40:49.077183
+2023-07-12 08:24:08.359729,No,,,,,Yes,Daily,Work,Male,45-54,Employee,Press,University,Cantabria,,2,2,1,2,2,1,2,2,1,2023-07-12 08:43:50.196052
+2023-07-12 08:29:06.987953,No,,,,,Yes,Weekly,Sport,Female,55-64,Employee,Official,University,Cantabria,,1,1,1,2,2,1,1,1,1,2023-07-12 08:47:31.255358
+2023-07-12 08:43:51.853581,No,,,,,No,,,Male,75 and over,Retired,,School graduate,Santander,39006,,,,,,,,,,2023-07-12 08:47:39.629409
+2023-07-12 08:20:36.594574,No,,,,,Yes,Occasionally,Leisure,Female,45-54,Employee,Teacher,University,Cantabria,,1,1,2,2,1,1,1,1,1,2023-07-12 08:48:03.416305
+2023-07-12 08:39:30.740589,No,,,,,No,,,Female,65-74,Retired,,School graduate,Santander,,,,,,,,,,,2023-07-12 08:48:49.084404
+2023-07-12 08:48:50.564933,No,,,,,Yes,,Studies,Male,Under 25,Unemployed,,High School Diploma,Outside of Spain,,2,2,2,2,2,2,1,1,1,2023-07-12 08:51:58.985775
+2023-07-12 08:40:52.825994,Yes,Occasionally,Santander,,Leisure,No,,,Male,Under 25,Unemployed,,University,Santander,39002,,,,,,,,,,2023-07-12 08:52:34.955976
+2023-07-12 08:47:40.871693,No,,,,,Yes,Occasionally,Leisure,Male,25-34,Student,,University,Santander,39004,2,2,2,2,2,2,2,2,1,2023-07-12 08:53:31.681800
+2023-07-12 08:52:00.634187,No,,,,,Yes,Monthly,Shopping,Male,75 and over,Retired,,High School Diploma,Santander,39009,2,2,2,2,2,2,2,1,1,2023-07-12 08:54:11.747705
+2023-07-12 09:33:17.712218,No,,,,,No,,,Female,35-44,Employee,Teacher,University,Santander,39012,,,,,,,,,,2023-07-12 09:35:03.519895
+2023-07-12 08:47:32.570999,Yes,Occasionally,Other,Milán ,Studies,Yes,,,Male,25-34,Employee,Official,University,Outside of Spain,,2,1,2,2,1,1,1,1,1,2023-07-12 09:36:36.916335
+2023-07-12 09:35:05.029417,No,,,,,No,,,,Under 25,Student,,High School,Santander,39005,,,,,,,,,,2023-07-12 09:37:30.685796
+2023-07-12 09:36:38.123831,No,,,,,Yes,Occasionally,Leisure,Female,45-54,Unemployed,,University,Santander,39006,2,2,2,2,2,2,1,1,1,2023-07-12 09:39:21.550297
+2023-07-12 09:39:22.874887,Yes,Occasionally,Other,Madrid,Work,Yes,Daily,Work,Male,Under 25,Employee,Programmer,University,Spain,,1,1,1,2,1,1,1,1,1,2023-07-12 09:50:36.968004
+2023-07-12 09:37:31.995427,Yes,Weekly,Other,Bilbao,Work,Yes,Daily,Other,Male,45-54,Employee,Driver,High School,Santander,39004,2,2,1,2,2,1,2,2,2,2023-07-12 09:51:01.997200
+2023-07-12 09:49:38.465173,No,,,,,No,,,Female,Under 25,Unemployed,,High School Diploma,Cantabria,,,,,,,,,,,2023-07-12 09:52:29.493569
+2023-07-12 09:50:38.174808,No,,,,,Yes,Occasionally,Leisure,Female,Under 25,Student,,High School,Spain,,1,1,1,2,1,1,2,1,1,2023-07-12 09:52:29.877484
+2023-07-12 09:52:30.975239,No,,,,,No,,,Male,Under 25,Student,,High School Diploma,Spain,,,,,,,,,,,2023-07-12 09:52:56.748459
+2023-07-12 09:51:03.854090,No,,,,,Yes,Occasionally,Leisure,Male,45-54,Employee,Journalist,University,Santander,39012,2,2,2,2,2,2,2,1,1,2023-07-12 09:58:13.862137
+2023-07-12 09:52:57.728022,No,,,,,Yes,Occasionally,Leisure,Male,65-74,Retired,,High School Diploma,Spain,,1,1,1,2,2,1,1,1,1,2023-07-12 09:58:45.368098
+2023-07-12 09:58:46.546743,No,,,,,No,,,Female,75 and over,Retired,,School graduate,Spain,,,,,,,,,,,2023-07-12 10:03:45.266667
+2023-07-12 09:56:58.063478,Yes,Occasionally,Santander,,Leisure,Yes,Weekly,Work,Male,Under 25,Employee,Researcher,University,Santander,39012,2,1,1,2,1,1,2,2,1,2023-07-12 10:06:17.199412
+2023-07-12 10:03:46.216298,No,,,,,Yes,Occasionally,Leisure,Male,45-54,Employee,Labor,High School Diploma,Santander,39001,2,2,2,2,1,1,1,1,1,2023-07-12 10:06:58.630504
+2023-07-12 10:06:18.925522,No,,,,,No,,,Male,65-74,Retired,,School graduate,Cantabria,,,,,,,,,,,2023-07-12 10:07:44.062747
+2023-07-12 10:06:59.757695,Yes,Occasionally,Santander,,Leisure,No,,,Female,45-54,Employee,Economist,University,Santander,39012,,,,,,,,,,2023-07-12 10:09:54.978616
+2023-07-12 10:09:55.966506,No,,,,,No,,,Female,55-64,Unemployed,,School graduate,Santander,39011,,,,,,,,,,2023-07-12 10:11:03.148461
+2023-07-12 08:54:13.452213,Yes,Occasionally,Santander,,Leisure,Yes,Occasionally,Leisure,Female,35-44,Housework,,School graduate,Spain,,2,1,2,1,1,2,2,1,1,2023-07-12 10:12:18.097800
+2023-07-12 10:12:24.223701,Yes,Occasionally,Santander,,Leisure,Yes,Occasionally,Leisure,Male,35-44,Employee,Police,University,Spain,,1,1,2,2,1,1,1,1,1,2023-07-12 10:13:35.551208
+2023-07-12 10:11:04.388322,No,,,,,Yes,Weekly,Leisure,Male,55-64,Unemployed,,University,Santander,39011,1,1,1,2,2,1,2,2,2,2023-07-12 10:14:09.436566
+2023-07-12 09:58:15.498645,No,,,,,Yes,Occasionally,Leisure,Female,35-44,Employee,Hostelry,University,Santander,39011,2,1,2,2,1,1,1,1,1,2023-07-12 10:15:35.183972
+2023-07-12 09:53:42.114079,Yes,Occasionally,Other,Granada,Leisure,Yes,Occasionally,Leisure,Male,Under 25,Student,,University,Spain,,2,2,2,2,2,2,1,1,1,2023-07-12 10:15:52.274955
+2023-07-12 10:14:10.522273,No,,,,,Yes,,,Male,65-74,Retired,,University,Cantabria,,1,1,1,2,2,1,2,1,1,2023-07-12 10:20:51.538651
+2023-07-12 10:13:43.035133,No,,,,,No,,,Female,35-44,Self-employed,,University,Cantabria,,,,,,,,,,,2023-07-12 10:22:18.330888
+2023-07-12 10:19:52.675926,No,,,,,Don’t know/depends,Occasionally,Leisure,Female,25-34,Housework,,High School,Santander,39011,2,1,2,2,1,2,1,1,1,2023-07-12 10:22:28.030751
+2023-07-12 10:15:55.706858,No,,,,,Yes,Occasionally,Leisure,Male,75 and over,Retired,,School graduate,Cantabria,,1,1,1,2,1,1,2,2,2,2023-07-12 10:24:31.424427
+2023-07-12 10:22:19.644785,No,,,,,Don’t know/depends,Occasionally,Health,Male,65-74,Retired,Construction worker,School graduate,Santander,39007 ,2,1,2,2,1,1,2,2,1,2023-07-12 10:26:47.904857
+2023-07-12 10:20:52.824988,No,,,,,No,,,Male,35-44,Employee,Sanitary,University,Spain,,,,,,,,,,,2023-07-12 10:27:29.716348
+2023-07-12 10:24:37.615583,No,,,,,Yes,Daily,Studies,Male,Under 25,Student,,High School Diploma,Cantabria,,2,1,2,2,1,1,1,1,1,2023-07-12 10:27:30.649343
+2023-07-12 10:22:29.858992,No,,,,,Don’t know/depends,Weekly,Leisure,Female,25-34,Employee,Saleswoman,High School,Santander,Barrio pesquero ,2,1,2,2,2,2,2,2,2,2023-07-12 10:29:44.841484
+2023-07-12 10:26:51.663661,No,,,,,Yes,Occasionally,Shopping,Female,55-64,Unemployed,Cleaner,School graduate,Santander,,2,2,2,2,2,2,1,1,1,2023-07-12 10:32:24.028129
+2023-07-12 10:29:46.376259,No,,,,,No,,,Male,Under 25,Student,,University,Spain,,,,,,,,,,,2023-07-12 10:34:22.451264
+2023-07-12 10:32:25.649055,Yes,Weekly,Santander,,Work,Yes,Weekly,Work,Female,25-34,Student,Nurse,University,Santander,39001,2,1,1,2,1,1,2,1,1,2023-07-12 10:37:57.636554
+2023-07-12 10:34:23.851244,No,,,,,Don’t know/depends,Daily,Work,Male,45-54,Employee,Teacher,University,Cantabria,,1,1,1,2,2,1,2,2,2,2023-07-12 10:38:09.942072
+2023-07-12 10:38:01.333993,Yes,Weekly,Santander,,Studies,Yes,Weekly,Studies,Male,Under 25,Student,Nurse,University,Cantabria,,2,1,2,2,1,1,2,2,1,2023-07-12 10:39:32.303642
+2023-07-12 10:27:30.765587,No,,,,,Yes,Occasionally,Leisure,Female,45-54,Self-employed,Lawyer,University,Cantabria,,1,1,2,2,1,1,1,1,1,2023-07-12 10:39:52.925730
+2023-07-12 10:15:36.774725,No,,,,,Yes,Weekly,Leisure,Male,65-74,Retired,Autonomous,High School Diploma,Cantabria,,1,1,1,2,1,1,2,2,2,2023-07-12 10:40:37.101651
+2023-07-12 10:39:53.991012,No,,,,,No,,,Female,Under 25,Student,,University,Santander,39005,,,,,,,,,,2023-07-12 10:40:58.796863
+2023-07-12 10:40:59.765013,No,,,,,No,,,Female,Under 25,Student,,High School Diploma,Cantabria,,,,,,,,,,,2023-07-12 10:41:30.947131
+2023-07-12 10:38:12.065828,No,,,,,No,,,Female,55-64,Unemployed,,None,Santander,Tetuan ,,,,,,,,,,2023-07-12 10:42:12.836589
+2023-07-12 10:41:31.916705,No,,,,,Yes,Occasionally,Leisure,Female,45-54,Employee,Sports monitor,High School Diploma,Cantabria,,2,2,1,2,2,1,2,2,2,2023-07-12 10:43:40.569186
+2023-07-12 10:43:41.969719,No,,,,,No,,,Male,25-34,Student,,University,Santander,39006,,,,,,,,,,2023-07-12 10:45:14.914782
+2023-07-12 10:40:39.047362,No,,,,,Yes,Occasionally,Leisure,Female,45-54,Employee,Saleswoman,High School Diploma,Santander,39006,1,1,1,2,2,2,2,1,1,2023-07-12 10:46:46.365715
+2023-07-12 10:45:16.355069,No,,,,,Yes,Monthly,Leisure,Female,Under 25,Student,,High School Diploma,Santander,39010,1,1,1,2,2,1,2,2,2,2023-07-12 10:48:25.178353
+2023-07-12 10:42:14.556186,No,,,,,Don’t know/depends,Occasionally,Leisure,Male,45-54,Employee,Guide,High School Diploma,Santander,39001,1,1,2,2,1,1,2,2,2,2023-07-12 10:49:30.504640
+2023-07-12 10:46:48.040134,No,,,,,Yes,Occasionally,Leisure,Female,45-54,Employee,Teacher,University,Santander,39012,2,2,2,2,2,2,2,1,1,2023-07-12 10:49:31.640653
+2023-07-12 10:39:34.151366,No,,,,,Don’t know/depends,Monthly,Leisure,Male,55-64,Housework,,High School,Cantabria,,2,1,1,2,2,1,2,2,1,2023-07-12 10:50:07.554854
+2023-07-12 10:49:32.270970,No,,,,,Don’t know/depends,Monthly,Administrative tasks,Female,45-54,Self-employed,Dentist,University,Santander,39002,1,1,1,2,1,1,2,2,2,2023-07-12 11:05:55.949687
+2023-07-12 11:26:06.419310,Yes,Weekly,Other,Madrid,Studies,Yes,Daily,Work,Male,25-34,Unemployed,,University,Cantabria,,2,2,1,2,2,1,2,2,2,2023-07-12 11:29:51.292964
+2023-07-12 11:57:10.274937,Yes,Occasionally,Santander,,Leisure,Yes,Weekly,Leisure,Male,55-64,Employee,Firefighter,High School,Santander,39005,1,1,1,1,1,1,1,1,2,2023-07-12 12:01:16.149022
+2023-07-12 12:05:45.723348,No,,,,,Yes,Weekly,Administrative tasks,Male,55-64,Employee,Official,High School Diploma,Santander,39003,1,1,2,2,1,1,2,2,1,2023-07-12 12:07:40.507592
+2023-07-12 12:10:23.715890,No,,,,,Yes,Occasionally,Administrative tasks,Male,55-64,Employee,Official,High School Diploma,Santander,39600,1,1,2,2,1,1,2,2,2,2023-07-12 12:14:18.768974
+2023-07-12 12:11:15.860015,Yes,Weekly,Santander,,Work,Yes,Daily,Work,Male,25-34,Employee,Firefighter,High School Diploma,Cantabria,AVD. Los Escolapios 40,1,1,1,1,1,1,1,1,1,2023-07-12 12:14:38.749083
+2023-07-12 12:14:15.184139,No,,,,,Yes,Occasionally,Leisure,Male,35-44,Employee,Official,High School Diploma,Cantabria,39300,2,2,2,2,2,2,1,1,1,2023-07-12 12:16:35.859234
+2023-07-12 12:12:51.790137,Yes,Occasionally,Other,Madrid,Leisure,Yes,Occasionally,Administrative tasks,Male,45-54,Employee,Firefighter,High School Diploma,Cantabria,,1,1,1,1,1,1,2,2,1,2023-07-12 12:17:39.557539
+2023-07-12 12:12:44.359236,No,,,,,Don’t know/depends,Occasionally,Administrative tasks,Male,35-44,Employee,Firefighter,University,Santander,39011,1,1,1,2,1,1,1,1,1,2023-07-12 12:23:48.541163
+2023-07-12 12:32:32.551065,Yes,Occasionally,Other,Londres,Administrative tasks,Yes,Occasionally,Leisure,Male,25-34,Student,,University,Outside of Spain,,2,2,2,2,2,2,2,2,1,2023-07-12 12:33:48.767181
+2023-07-12 10:07:45.509422,No,,,,,Yes,Weekly,Leisure,Female,25-34,Unemployed,Engineering,School graduate,Santander,39012,2,1,1,2,2,1,2,2,1,2023-07-12 12:55:53.118046
+2023-07-12 12:52:04.368297,No,,,,,Don’t know/depends,Occasionally,Leisure,Prefer not to specify,55-64,Employee,Official,High School Diploma,Santander,Menéndez Pelayo ,1,1,1,1,1,1,2,2,1,2023-07-12 12:56:09.083657
+2023-07-12 12:29:03.553969,Yes,Occasionally,Santander,,Other,Yes,Monthly,Other,Female,55-64,Employee,Social worker,University,Santander,39007,1,1,2,2,1,1,2,1,1,2023-07-12 13:07:42.310249
+2023-07-12 13:07:45.449106,No,,,,,No,,,Male,35-44,Employee,Accountant,University,Santander,39003,,,,,,,,,,2023-07-12 13:10:37.682178
+2023-07-12 13:09:25.570993,Yes,Occasionally,Santander,,Leisure,Yes,Occasionally,Leisure,Male,35-44,Employee,official,University,Santander,39005,1,1,1,1,1,1,1,1,1,2023-07-12 13:12:38.411650
+2023-07-12 13:10:39.016801,No,,,,,Yes,Occasionally,Leisure,Female,35-44,Employee,Administrator,University,Santander,39006,2,2,2,2,2,1,1,1,1,2023-07-12 13:13:05.443917
+2023-07-12 12:55:54.876456,No,,,,,Yes,Monthly,Administrative tasks,Male,25-34,Student,Student,High School Diploma,Spain,,2,1,2,2,2,1,2,2,1,2023-07-12 13:14:05.946642
+2023-07-12 13:13:07.857909,No,,,,,No,,,Male,Under 25,Student,,University,Santander,Hernán Cortés,,,,,,,,,,2023-07-12 13:14:22.511437
+2023-07-12 13:14:07.721658,No,,,,,No,,,Male,75 and over,Retired,,None,Santander,39011,,,,,,,,,,2023-07-12 13:14:44.218460
+2023-07-12 13:14:45.786218,No,,,,,No,,,Female,75 and over,Housework,,School graduate,Santander,39001,,,,,,,,,,2023-07-12 13:15:13.445275
+2023-07-12 13:16:14.323239,No,,,,,Yes,Occasionally,Leisure,Female,35-44,Employee,Gerocultor,High School Diploma,Cantabria,,1,1,1,1,1,1,1,1,1,2023-07-12 13:21:16.377522
+2023-07-12 13:36:00.684543,No,,,,,Yes,Occasionally,Other,Female,25-34,Employee,Teleopeora,University,Spain,,1,1,2,2,1,1,1,2,1,2023-07-12 13:40:16.353412
+2023-07-12 13:42:36.909795,Yes,Occasionally,Santander,,Leisure,Yes,Occasionally,Other,Female,55-64,Housework,None,School graduate,Santander,Sardinero,2,2,1,1,2,1,1,2,2,2023-07-12 13:45:10.002880
+2023-07-12 10:50:09.350965,No,,,,,No,,,Male,75 and over,Retired,Electrician,School graduate,Cantabria,,,,,,,,,,,2023-07-12 13:45:17.052062
+2023-07-12 13:43:48.392942,Yes,Occasionally,Santander,,Sport,Yes,Monthly,Sport,Female,25-34,Student,Student,University,Santander,39007,1,1,2,1,1,2,1,2,1,2023-07-12 13:46:17.314183
+2023-07-12 13:44:25.869430,No,,,,,Yes,Weekly,Administrative tasks,Male,25-34,Unemployed,Referee,High School,Santander,39012,1,1,1,1,1,1,1,1,1,2023-07-12 13:46:48.984649
+2023-07-12 13:21:18.162427,Yes,Occasionally,Santander,,Leisure,Yes,Occasionally,Leisure,Female,25-34,Unemployed,Administrative,High School Diploma,Santander,39011,2,1,2,2,2,1,2,2,1,2023-07-12 13:47:24.849634
+2023-07-12 13:47:26.750734,No,,,,,Don’t know/depends,Monthly,Shopping,Prefer not to specify,Under 25,Student,,High School Diploma,Cantabria,,1,1,1,2,1,1,2,1,1,2023-07-12 13:49:05.017266
+2023-07-12 13:45:20.132578,No,,,,,Yes,Occasionally,Sport,Male,75 and over,Retired,,University,Santander,39009,1,1,2,2,1,1,1,1,1,2023-07-12 13:57:19.651147
+2023-07-12 13:49:06.948313,No,,,,,Don’t know/depends,Monthly,Leisure,Female,35-44,Employee,Administrator,High School Diploma,Cantabria,,2,2,1,2,2,1,2,2,2,2023-07-12 13:58:00.382588
+2023-07-12 13:57:21.324962,Yes,Occasionally,Santander,,Leisure,Don’t know/depends,Occasionally,Leisure,Male,55-64,Retired,,High School Diploma,Outside of Spain,,2,2,1,2,2,1,2,2,2,2023-07-12 13:59:01.210454
+2023-07-12 13:45:11.475431,No,,,,,Don’t know/depends,Occasionally,Work,,45-54,Employee,Saleswoman,High School Diploma,Cantabria,,2,1,1,2,2,1,2,2,2,2023-07-12 13:59:54.498789
+2023-07-12 13:58:02.623734,No,,,,,Yes,Occasionally,Leisure,Female,Under 25,Student,,High School Diploma,Cantabria,,1,1,1,2,1,1,1,1,1,2023-07-12 14:00:43.183969
+2023-07-12 13:59:02.994405,No,,,,,No,,,Female,45-54,Unemployed,,School graduate,Santander,,,,,,,,,,,2023-07-12 14:01:02.800011
+2023-07-12 14:00:45.448702,Yes,Occasionally,Santander,,Other,Yes,Weekly,Other,Male,Under 25,Student,,High School Diploma,Santander,39012,1,1,1,2,1,1,1,1,1,2023-07-12 14:02:34.663858
+2023-07-12 14:01:04.946793,No,,,,,Yes,Occasionally,Sport,Female,25-34,Employee,,University,Outside of Spain,,2,2,2,2,2,2,1,1,1,2023-07-12 14:02:43.484434
+2023-07-12 14:02:36.188488,No,,,,,No,,,Female,65-74,Retired,teacher,University,Santander,39011,,,,,,,,,,2023-07-12 14:03:59.781608
+2023-07-12 13:59:56.557113,No,,,,,No,,,Male,55-64,Employee,Pharmacist,University,Santander,39005,,,,,,,,,,2023-07-12 14:06:47.108968
+2023-07-12 14:04:02.050787,No,,,,,Yes,Daily,Leisure,Female,55-64,Retired,Teacher,University,Spain,,2,2,1,2,2,1,1,1,1,2023-07-12 14:06:58.964444
+2023-07-12 14:02:45.209192,Yes,Weekly,Santander,,Work,Yes,Weekly,Work,Male,35-44,Self-employed,Waiter,High School,Cantabria,,2,2,1,2,2,1,2,2,1,2023-07-12 14:08:19.075552
+2023-07-12 14:07:00.535536,No,,,,,No,,,Male,55-64,Employee,Port instigator,High School,Santander,39004,,,,,,,,,,2023-07-12 14:09:33.440290
+2023-07-12 14:06:48.589383,Yes,Occasionally,Santander,,Sport,Don’t know/depends,Occasionally,Sport,Female,35-44,Housework,,None,Santander,39006,2,2,2,2,2,2,1,1,1,2023-07-12 14:09:34.051858
+2023-07-12 14:08:20.764121,No,,,,,No,,,Male,35-44,Housework,,High School Diploma,Cantabria,,,,,,,,,,,2023-07-12 14:09:41.312025
+2023-07-12 14:09:34.740246,Yes,Occasionally,Santander,,Other,Yes,Weekly,Other,Male,35-44,Employee,Administrative Assistant,High School,Santander,39007,2,2,1,2,2,1,2,2,2,2023-07-12 14:13:26.539483
+2023-07-12 14:13:27.892419,No,,,,,Yes,Occasionally,Leisure,Female,35-44,Employee,Waitress,High School Diploma,Santander,Floranes,1,1,1,2,2,1,2,2,1,2023-07-12 14:18:03.967369
+2023-07-12 14:09:42.669595,Yes,Occasionally,Santander,,Leisure,Yes,Occasionally,Leisure,Female,25-34,Employee,,University,Cantabria,,1,1,2,2,1,1,2,1,1,2023-07-12 14:19:06.156002
+2023-07-12 14:16:38.169172,No,,,,,Yes,Weekly,Leisure,Female,25-34,Employee,Assistant,High School Diploma,Santander,39004,2,2,2,2,2,1,2,2,1,2023-07-12 14:21:28.453946
+2023-07-12 14:18:05.569837,No,,,,,Yes,Occasionally,Leisure,Female,75 and over,Retired,Commercial,High School Diploma,Santander,Rua Mayor,1,1,1,1,1,1,1,1,1,2023-07-12 14:23:01.325740
+2023-07-12 14:23:02.539319,No,,,,,No,,,Female,Under 25,Student,,University,Santander,39006,,,,,,,,,,2023-07-12 14:25:34.096987
+2023-07-12 14:25:35.707500,No,,,,,No,,,Female,Under 25,Student,Graphic design,University,Santander,39006,,,,,,,,,,2023-07-12 14:26:21.517530
+2023-07-12 14:28:03.634257,No,,,,,No,,,Female,55-64,Unemployed,Physical,University,Spain,,,,,,,,,,,2023-07-12 14:29:29.559536
+2023-07-12 14:29:30.778982,No,,,,,No,,,Female,55-64,Employee,Commercial,High School Diploma,Spain,,,,,,,,,,,2023-07-12 14:34:16.489338
+2023-07-12 14:34:18.029386,No,,,,,No,,,Female,75 and over,Housework,,School graduate,Santander,Francisco de Quevedo,,,,,,,,,,2023-07-12 14:35:41.812469
+2023-07-12 14:35:42.978270,No,,,,,No,,,Female,75 and over,Retired,Hostelry,School graduate,Santander,Canalejas,,,,,,,,,,2023-07-12 14:36:22.584783
+2023-07-12 14:36:23.784510,Yes,Occasionally,Other,Bilbao,Leisure,Yes,Occasionally,Leisure,Female,55-64,Employee,Administrator,University,Spain,,1,1,1,2,1,1,2,1,1,2023-07-12 14:39:43.841128
+2023-07-12 14:39:47.145726,Yes,Occasionally,Other,Madrid,Leisure,Don’t know/depends,Occasionally,Leisure,Female,25-34,Self-employed,Journalist,University,Spain,,1,2,1,2,2,1,2,2,1,2023-07-12 14:44:46.049324
+2023-07-12 14:44:47.385843,No,,,,,No,,,Male,35-44,Unemployed,Gardener,High School Diploma,Santander,39008,,,,,,,,,,2023-07-12 14:47:00.864672
+2023-07-12 14:47:02.028476,Yes,Occasionally,Other,Madrid,Leisure,Yes,Occasionally,Leisure,Female,25-34,Unemployed,Social Integrator,High School Diploma,Santander,39005,2,2,2,2,1,2,1,1,1,2023-07-12 14:49:10.675093
+2023-07-12 14:49:14.003289,No,,,,,Yes,Weekly,Sport,Female,45-54,Employee,Caretaker,High School Diploma,Santander,Antonio Cabezón,1,1,1,2,1,1,1,1,1,2023-07-12 14:53:47.727524
+2023-07-12 14:21:30.133438,No,,,,,Don’t know/depends,Occasionally,Health,Female,75 and over,Retired,Teacher,University,Santander,39011,2,1,2,2,1,2,1,1,1,2023-07-12 15:06:51.607325
+2023-07-12 15:06:54.146838,No,,,,,Yes,Occasionally,Leisure,Female,65-74,Retired,Teacher,University,Spain,,2,2,2,2,2,2,1,1,1,2023-07-12 15:11:00.888219
+2023-07-12 15:11:02.422958,No,,,,,Don’t know/depends,Daily,Health,Male,75 and over,Retired,Official,University,Santander,39011,1,1,2,2,2,2,1,1,1,2023-07-12 15:36:34.293126
+2023-07-12 16:59:30.589860,Yes,Occasionally,Santander,,Leisure,Yes,Weekly,Administrative tasks,Male,45-54,Employee,Marine,University,Santander,39012,1,1,1,2,1,1,2,2,1,2023-07-12 17:03:07.551940
+2023-07-12 18:35:24.144757,Yes,Occasionally,Santander,,Other,Yes,Daily,Other,Male,55-64,Employee,Firefighter,High School Diploma,Cantabria,39197,1,1,1,1,1,2,1,1,1,2023-07-12 18:38:46.833948
+2023-07-12 20:12:21.329586,No,,,,,Don’t know/depends,Occasionally,Leisure,Female,25-34,Employee,Social educator,University,Cantabria,,1,1,2,2,1,1,1,1,1,2023-07-12 20:15:03.730856
+2023-07-12 20:22:59.834779,No,,,,,Don’t know/depends,Occasionally,Work,Male,25-34,Employee,INFORMATIC,High School Diploma,Santander,39011,1,1,1,1,1,1,2,2,2,2023-07-12 20:25:44.747509
+2023-07-12 20:25:45.284753,No,,,,,No,,,Female,35-44,Employee,Consultant,University,Santander,39001,,,,,,,,,,2023-07-12 20:27:41.688793
+2023-07-12 21:41:49.222514,No,,,,,No,,,Male,25-34,Employee,Teacher,University,Santander,39003,,,,,,,,,,2023-07-12 21:42:31.520251
+2023-07-13 07:55:38.083488,No,,,,,Don’t know/depends,Occasionally,Leisure,Male,25-34,Employee,PLADUR INSTALLER,High School,Cantabria,39300,1,1,1,1,1,1,1,1,1,2023-07-13 07:58:21.904203
+2023-07-13 08:03:29.543528,No,,,,,Yes,Occasionally,Leisure,Female,Under 25,Student,,University,Santander,39003,1,1,2,2,1,1,2,1,1,2023-07-13 08:12:07.580488
+2023-07-12 10:48:30.825336,No,,,,,Yes,Occasionally,Leisure,Female,Under 25,Student,,University,Santander,39003,1,1,1,2,1,1,2,1,1,2023-07-13 08:12:09.896145
+2023-07-13 08:12:15.456378,No,,,,,No,,,Female,25-34,Employee,Finance,University,Spain,,,,,,,,,,,2023-07-13 08:14:13.282396
+2023-07-13 08:08:55.689030,No,,,,,No,,,Male,35-44,Employee,Conductor,High School Diploma,Santander,39003,,,,,,,,,,2023-07-13 08:15:13.323385
+2023-07-13 08:12:08.541973,No,,,,,Yes,Occasionally,Leisure,Female,25-34,Self-employed,Teacher,University,Santander,39005,1,1,1,1,2,1,1,1,1,2023-07-13 08:15:20.401081
+2023-07-13 08:14:14.233523,No,,,,,No,,,Male,25-34,Employee,Virtual Business,High School Diploma,Santander,39009,,,,,,,,,,2023-07-13 08:17:59.673965
+2023-07-13 08:15:14.690079,No,,,,,Yes,Daily,Leisure,Male,55-64,Employee,Administrator,University,Santander,39003,2,1,1,2,2,1,2,2,2,2023-07-13 08:19:20.165139
+2023-07-13 08:18:00.486589,No,,,,,Yes,Occasionally,Health,Female,Under 25,Student,,High School Diploma,Spain,,1,1,1,2,1,1,1,1,1,2023-07-13 08:23:29.382007
+2023-07-13 08:23:30.276222,No,,,,,No,,,Female,55-64,Retired,,High School Diploma,Spain,,,,,,,,,,,2023-07-13 08:25:53.825981
+2023-07-13 08:15:21.310835,No,,,,,No,,,Female,65-74,Retired,Official,University,Spain,,,,,,,,,,,2023-07-13 08:26:05.769968
+2023-07-13 08:19:22.238715,No,,,,,Yes,Daily,Work,Male,25-34,Student,,High School Diploma,Spain,39005,1,1,2,1,1,1,1,1,1,2023-07-13 08:28:54.583466
+2023-07-13 08:25:54.875748,No,,,,,Yes,Occasionally,Leisure,Male,25-34,Employee,Waiter,University,Spain,,1,1,1,2,1,1,1,1,1,2023-07-13 08:29:22.462929
+2023-07-13 08:26:07.174403,No,,,,,Yes,Occasionally,Work,Female,55-64,Unemployed,,High School Diploma,Spain,,1,1,1,2,1,1,1,1,1,2023-07-13 08:29:28.889995
+2023-07-13 08:29:29.949187,No,,,,,No,,,Female,35-44,Employee,Administrative,High School Diploma,Santander,39011,,,,,,,,,,2023-07-13 08:34:26.129407
+2023-07-13 08:29:23.702298,No,,,,,Yes,Occasionally,Leisure,Female,45-54,Employee,Telephone manager,University,Cantabria,,1,1,2,2,1,1,1,1,1,2023-07-13 08:35:18.661580
+2023-07-13 08:28:56.256821,No,,,,,Yes,Occasionally,Work,Male,Under 25,Employee,Administration,High School Diploma,Santander,39002,2,1,2,2,1,1,2,2,1,2023-07-13 08:37:57.539262
+2023-07-13 08:35:19.748298,No,,,,,No,,,Female,25-34,Employee,Saleswoman,High School Diploma,Santander,39006,,,,,,,,,,2023-07-13 08:44:15.431826
+2023-07-13 08:34:27.328181,No,,,,,Yes,Occasionally,Leisure,Female,25-34,Employee,Saleswoman,University,Santander,39004,1,1,2,2,1,2,1,1,1,2023-07-13 08:45:18.273841
+2023-07-13 08:37:59.496617,No,,,,,Yes,Daily,Work,Male,35-44,Employee,Official,University,Spain,,1,1,2,2,1,1,2,1,1,2023-07-13 08:46:11.409396
+2023-07-13 08:43:18.377548,No,,,,,Don’t know/depends,Occasionally,Leisure,Female,65-74,Retired,Nurse,University,Santander,39001,2,2,1,2,2,1,1,1,1,2023-07-13 08:47:02.447909
+2023-07-13 08:47:04.170118,No,,,,,No,,,Female,55-64,Housework,,School graduate,Santander,39003,,,,,,,,,,2023-07-13 08:48:19.941312
+2023-07-13 08:44:16.358509,Yes,Daily,Santander,,Work,Don’t know/depends,Daily,Work,Male,55-64,Employee,Engineer,University,Santander,39005,1,1,1,1,1,1,2,2,2,2023-07-13 08:53:41.578962
+2023-07-13 08:48:21.640768,No,,,,,No,,,Male,25-34,Employee,Journalist,University,Santander,39002,,,,,,,,,,2023-07-13 08:56:33.167328
+2023-07-13 08:56:34.889506,Yes,Occasionally,Santander,,Sport,Don’t know/depends,Occasionally,Sport,Female,65-74,Retired,Administrative,School graduate,Santander,39004,2,2,2,2,2,2,1,1,1,2023-07-13 08:59:01.952121
+2023-07-13 08:45:19.873845,No,,,,,No,,,Female,Under 25,Student,,High School Diploma,Outside of Spain,,,,,,,,,,,2023-07-13 08:59:26.185610
+2023-07-13 08:59:03.504503,No,,,,,No,,,Male,75 and over,Retired,Plater,School graduate,Santander,Avenida del deporte,,,,,,,,,,2023-07-13 09:00:57.578398
+2023-07-13 08:53:42.597435,Yes,Occasionally,Santander,,Leisure,Yes,Occasionally,Work,Male,35-44,Employee,Teacher,University,Santander,39012,2,2,1,2,2,1,2,2,2,2023-07-13 09:01:11.277103
+2023-07-13 09:02:26.932583,No,,,,,Don’t know/depends,Occasionally,Shopping,Female,55-64,Housework,,None,Santander,,2,1,2,2,1,1,2,2,1,2023-07-13 09:04:16.900528
+2023-07-13 09:00:58.656810,No,,,,,Yes,Occasionally,Sport,Female,65-74,Retired,,High School Diploma,Santander,39003,2,1,1,2,1,1,1,1,1,2023-07-13 09:04:32.305470
+2023-07-13 09:02:38.943633,No,,,,,Yes,Daily,Work,Female,25-34,Employee,Engineer,University,Cantabria,,2,2,1,2,2,1,2,2,1,2023-07-13 09:05:29.998936
+2023-07-13 09:04:34.535030,No,,,,,No,,,Male,65-74,Retired,,High School Diploma,Santander,39009,,,,,,,,,,2023-07-13 09:05:56.188599
+2023-07-13 09:05:59.399241,No,,,,,No,,,Female,55-64,Retired,,University,Outside of Spain,,,,,,,,,,,2023-07-13 09:07:59.083823
+2023-07-13 09:08:01.726297,No,,,,,Yes,,,Female,45-54,Self-employed,Interiorist,University,Santander,39002,1,1,1,2,1,1,2,2,2,2023-07-13 09:11:07.144728
+2023-07-13 09:11:09.381163,No,,,,,No,,,Female,Under 25,Employee,Interior design,University,Santander,39011,,,,,,,,,,2023-07-13 09:13:32.704693
+2023-07-13 08:59:27.194601,No,,,,,No,,,Male,55-64,Self-employed,Engineer,University,Outside of Spain,,,,,,,,,,,2023-07-13 09:14:15.180135
+2023-07-13 09:13:33.876755,No,,,,,No,,,Female,35-44,Employee,Bank,University,Spain,,,,,,,,,,,2023-07-13 09:15:00.318006
+2023-07-13 09:01:12.299787,No,,,,,Yes,Occasionally,Leisure,Male,65-74,Retired,,High School Diploma,Cantabria,,1,1,2,2,2,1,2,1,1,2023-07-13 09:15:28.445317
+2023-07-13 09:15:02.334861,No,,,,,No,,,Female,65-74,Retired,Health,University,Santander,39004,,,,,,,,,,2023-07-13 09:17:18.158431
+2023-07-13 09:17:20.155503,No,,,,,No,,,Female,65-74,Retired,,University,Santander,39006,,,,,,,,,,2023-07-13 09:24:57.949244
+2023-07-13 09:25:00.309736,No,,,,,Yes,Occasionally,Leisure,Female,35-44,Unemployed,,University,Cantabria,,1,1,1,2,2,1,2,2,1,2023-07-13 09:30:09.133208
+2023-07-13 09:30:10.787379,No,,,,,Yes,Occasionally,Leisure,Female,35-44,Employee,Programmer,University,Cantabria,,1,1,1,2,1,1,2,2,1,2023-07-13 09:31:54.106861
+2023-07-13 09:14:16.216645,No,,,,,Yes,Occasionally,Leisure,Female,25-34,Employee,Engineer,University,Santander,39006,2,2,2,2,2,2,2,1,1,2023-07-13 09:34:43.467816
+2023-07-13 09:05:32.575697,No,,,,,No,,,Male,65-74,Retired,Electrician,High School Diploma,Spain,,,,,,,,,,,2023-07-13 09:35:48.681440
+2023-07-13 09:34:34.900031,No,,,,,Yes,Weekly,Leisure,Female,55-64,Retired,,School graduate,Santander,39012,2,1,2,2,2,2,2,2,1,2023-07-13 09:36:01.567603
+2023-07-13 09:35:01.297967,No,,,,,Yes,Occasionally,Leisure,Male,75 and over,Retired,,High School Diploma,Santander,39003,1,1,2,2,2,1,2,1,1,2023-07-13 09:38:51.715901
+2023-07-13 09:04:18.868714,No,,,,,Yes,Occasionally,Leisure,Male,65-74,Retired,,University,Santander,39003,1,1,2,2,1,1,2,1,1,2023-07-13 09:39:21.649961
+2023-07-13 08:46:13.023357,No,,,,,Yes,Daily,Leisure,Male,65-74,Retired,Formwork,High School Diploma,Santander,39006,1,1,1,2,2,1,2,2,1,2023-07-13 09:39:38.006316
+2023-07-13 09:36:03.341497,No,,,,,Yes,Weekly,Sport,Female,55-64,Employee,Nurse,University,Santander,39003,2,2,1,2,2,1,2,2,2,2023-07-13 09:40:56.025477
+2023-07-13 09:35:50.329945,Yes,Occasionally,Other,Madrid ,Sport,Yes,Occasionally,Leisure,Male,55-64,Employee,Architect,University,Spain,,2,2,2,2,2,2,1,1,1,2023-07-13 09:41:19.541331
+2023-07-13 09:40:59.365414,No,,,,,Yes,Occasionally,Leisure,Female,45-54,Employee,Administrative,High School Diploma,Spain,,2,1,2,2,1,1,2,1,1,2023-07-13 09:43:53.028226
+2023-07-13 09:43:54.823649,No,,,,,Yes,Occasionally,Leisure,Female,45-54,Employee,Consultant,University,Outside of Spain,,2,2,2,2,2,2,1,1,1,2023-07-13 09:46:00.652384
+2023-07-13 09:39:23.247502,Yes,Occasionally,Other,Sevilla,Work,Yes,Occasionally,Work,Male,45-54,Employee,,High School Diploma,Spain,,1,1,1,2,1,1,2,1,1,2023-07-13 09:47:00.963682
+2023-07-13 09:46:05.753771,No,,,,,No,,,Female,65-74,Retired,,School graduate,Santander,39009,,,,,,,,,,2023-07-13 09:47:02.453522
+2023-07-13 09:47:04.391987,No,,,,,No,,,Female,55-64,Unemployed,Magisterium,University,Santander,39001,,,,,,,,,,2023-07-13 09:47:45.291336
+2023-07-13 09:15:29.522542,No,,,,,Don’t know/depends,Occasionally,Leisure,Female,Under 25,Student,,High School Diploma,Santander,39011,2,2,2,2,2,2,1,1,1,2023-07-13 09:47:56.262111
+2023-07-13 09:34:44.526895,No,,,,,Don’t know/depends,Occasionally,Leisure,Female,Under 25,Student,,High School Diploma,Santander,39007,2,1,1,2,1,1,1,1,1,2023-07-13 09:48:28.171757
+2023-07-13 09:47:57.310237,No,,,,,Yes,Occasionally,Leisure,Female,Under 25,Student,,High School Diploma,Santander,39011,1,1,1,2,1,1,1,1,1,2023-07-13 09:49:34.861891
+2023-07-13 09:47:47.670974,Yes,Occasionally,Santander,,Leisure,Yes,Daily,Work,Male,45-54,Employee,Engineer,University,Santander,39005,2,1,1,1,1,1,2,2,1,2023-07-13 09:50:19.996611
+2023-07-13 09:50:54.092916,No,,,,,No,,,Male,55-64,Employee,,High School Diploma,Santander,39012,,,,,,,,,,2023-07-13 09:52:04.384406
+2023-07-13 09:47:03.548598,No,,,,,Don’t know/depends,Monthly,Leisure,Male,55-64,Employee,,School graduate,Santander,39012,2,2,2,2,1,1,2,2,1,2023-07-13 09:52:25.971876
+2023-07-13 09:52:05.334322,No,,,,,No,,,Female,65-74,Retired,,High School Diploma,Santander,,,,,,,,,,,2023-07-13 09:53:17.814695
+2023-07-13 09:52:27.579221,No,,,,,No,,,Female,55-64,Employee,,High School,Santander,,,,,,,,,,,2023-07-13 09:53:17.932862
+2023-07-13 09:50:22.984625,Yes,Daily,Other,Burgos,Other,Yes,Daily,Work,Female,45-54,Employee,Residence caretaker,High School Diploma,Spain,,2,2,1,2,2,1,2,2,1,2023-07-13 09:53:34.462802
+2023-07-13 09:41:21.917470,No,,,,,Yes,Occasionally,Administrative tasks,Female,55-64,Self-employed,Writer,University,Cantabria,,1,1,2,2,2,2,2,2,2,2023-07-13 09:55:14.037525
+2023-07-13 09:53:36.977679,No,,,,,Yes,Weekly,Leisure,Female,55-64,Employee,Teacher,University,Santander,39012,2,1,2,2,1,2,2,2,1,2023-07-13 09:57:14.495819
+2023-07-13 09:53:19.192512,No,,,,,Yes,Occasionally,Leisure,Female,55-64,Retired,,High School Diploma,Santander,39012,1,1,2,2,1,1,2,1,1,2023-07-13 09:57:14.948507
+2023-07-13 09:53:18.854435,No,,,,,Yes,,,Female,55-64,Retired,,High School Diploma,Santander,39012,1,1,2,2,2,2,2,1,1,2023-07-13 09:57:23.805493
+2023-07-13 09:49:35.915039,No,,,,,No,,,Female,Under 25,Employee,Dentalga,University,Santander,39012,,,,,,,,,,2023-07-13 09:59:57.067087
+2023-07-13 09:59:58.175103,No,,,,,No,,,Male,75 and over,Retired,,High School,Santander,39012,,,,,,,,,,2023-07-13 10:00:51.347650
+2023-07-13 09:55:15.881581,No,,,,,Yes,Occasionally,Leisure,Male,Under 25,Employee,Red Cross,High School,Cantabria,,1,1,1,2,2,1,1,1,1,2023-07-13 10:02:56.533038
+2023-07-13 09:57:25.184952,No,,,,,Yes,Occasionally,Leisure,Male,65-74,Retired,,High School Diploma,Santander,,2,1,1,2,2,1,2,1,1,2023-07-13 10:04:00.741292
+2023-07-13 09:48:29.090541,No,,,,,Yes,Occasionally,Leisure,Female,35-44,Employee,Psychology,University,Santander,39004,2,2,2,2,2,2,1,1,1,2023-07-13 10:04:17.216363
+2023-07-13 09:57:17.103556,No,,,,,Yes,Monthly,Shopping,Male,45-54,Self-employed,Banker,University,Cantabria,,1,1,1,1,1,1,1,1,1,2023-07-13 10:05:26.716411
+2023-07-13 10:02:58.512445,No,,,,,Yes,Daily,Work,Male,25-34,Employee,Life guard,High School Diploma,Cantabria,,2,1,1,2,2,1,2,2,2,2023-07-13 10:09:36.758224
+2023-07-13 10:04:18.261261,No,,,,,No,,,Female,Under 25,Student,,High School Diploma,Santander,39009,,,,,,,,,,2023-07-13 10:12:41.329014
+2023-07-13 10:04:02.291046,No,,,,,Don’t know/depends,Monthly,Administrative tasks,Prefer not to specify,45-54,Unemployed,,None,Santander,39012,2,2,2,2,2,1,2,2,1,2023-07-13 10:13:21.688937
+2023-07-13 10:05:29.002194,Yes,Weekly,Santander,,Health,Yes,Weekly,Leisure,Male,75 and over,Retired,,School graduate,Cantabria,,2,2,1,2,2,1,2,2,2,2023-07-13 10:13:51.479824
+2023-07-13 10:00:52.357420,No,,,,,Yes,Occasionally,Leisure,Female,Under 25,Student,,High School Diploma,Santander,39011,2,1,1,2,1,1,1,1,1,2023-07-13 10:14:03.705875
+2023-07-13 10:13:53.086148,Yes,Daily,Santander,,Studies,Yes,Daily,Studies,Male,Under 25,Student,,University,Cantabria,,1,1,2,2,1,1,2,2,1,2023-07-13 10:16:44.299750
+2023-07-13 10:12:42.244222,No,,,,,No,,,Male,75 and over,Retired,Doctor,University,Cantabria,,,,,,,,,,,2023-07-13 10:17:04.716693
+2023-07-13 10:09:38.267114,No,,,,,Don’t know/depends,Occasionally,Health,Female,55-64,Housework,Housewife,High School Diploma,Cantabria,,2,2,2,2,2,2,1,1,1,2023-07-13 10:17:51.452500
+2023-07-13 10:14:04.762899,Yes,Occasionally,Other,Chicago,Leisure,Yes,Occasionally,Leisure,Female,35-44,Housework,,University,Outside of Spain,,1,1,1,2,2,1,1,1,1,2023-07-13 10:18:09.972907
+2023-07-13 10:16:45.909548,No,,,,,Don’t know/depends,Occasionally,Leisure,Prefer not to specify,35-44,Self-employed,,High School Diploma,Spain,,2,2,2,2,2,2,1,1,1,2023-07-13 10:22:35.920948
+2023-07-13 10:22:37.497784,Yes,Monthly,Santander,,Leisure,Yes,Weekly,Leisure,Male,55-64,Employee,,High School Diploma,Santander,39009,2,1,1,1,2,1,2,2,1,2023-07-13 10:31:02.887043
+2023-07-13 10:31:06.183692,No,,,,,Don’t know/depends,Daily,Studies,Male,25-34,Student,Medicine,University,Cantabria,,2,1,1,2,2,1,2,2,1,2023-07-13 10:53:26.357950
+2023-07-13 10:56:02.632509,No,,,,,Don’t know/depends,Occasionally,Shopping,Male,65-74,Retired,,None,Santander,39012,2,2,1,2,2,1,2,2,2,2023-07-13 10:57:02.722352
+2023-07-13 10:56:15.013649,Yes,Occasionally,Other,,Leisure,Yes,Weekly,Health,Female,25-34,Employee,,University,Spain,,2,2,2,2,2,1,2,2,2,2023-07-13 10:57:55.190591
+2023-07-13 10:57:46.253345,No,,,,,Don’t know/depends,Occasionally,Studies,Female,25-34,Unemployed,,High School,Spain,,2,2,2,2,2,2,2,1,1,2023-07-13 10:58:32.913377
+2023-07-13 12:33:50.372500,Yes,Occasionally,Other,Torrelavega,Leisure,Yes,Occasionally,Leisure,Female,35-44,Employee,Teacher,University,Santander,39005,2,2,1,2,2,1,2,2,2,2023-07-13 12:43:56.780251
+2023-07-13 12:44:19.682910,No,,,,,Yes,Weekly,Work,Male,35-44,Employee,High School teacher,University,Santander,39009,1,1,1,1,1,1,1,1,1,2023-07-13 12:46:59.003918
+2023-07-14 07:44:13.852762,No,,,,,Yes,Occasionally,Shopping,Female,25-34,Employee,Administrative,University,Santander,39001,1,1,1,2,1,1,2,2,1,2023-07-14 07:47:14.788613
+2023-07-14 07:48:49.379221,No,,,,,Don’t know/depends,Occasionally,Health,Male,55-64,Employee,,High School Diploma,Santander,39005,1,1,1,1,1,1,2,1,1,2023-07-14 07:50:13.323021
+2023-07-14 07:50:51.444948,No,,,,,Don’t know/depends,Occasionally,Health,Female,55-64,Housework,,School graduate,Santander,39005,2,1,1,2,1,1,1,1,1,2023-07-14 07:52:20.212138
+2023-07-14 07:50:10.242614,No,,,,,Don’t know/depends,Occasionally,Administrative tasks,Female,25-34,Employee,Teacher,University,Santander,39012,1,1,1,1,1,1,2,2,1,2023-07-14 07:52:59.466756
+2023-07-14 07:52:59.932689,No,,,,,Don’t know/depends,Occasionally,Administrative tasks,Female,,Employee,Education,University,Santander,39012,1,1,2,1,1,2,2,2,1,2023-07-14 07:54:09.780343
+2023-07-14 08:11:34.497259,Yes,Weekly,Santander,,Work,Yes,Weekly,Work,Female,35-44,Employee,Architect,University,Santander,39002,2,1,1,2,2,1,2,2,1,2023-07-14 08:15:22.679249
+2023-07-14 08:15:23.830538,No,,,,,No,,,Male,45-54,Self-employed,,High School Diploma,Santander,,,,,,,,,,,2023-07-14 08:17:35.572776
+2023-07-14 08:17:36.655027,Yes,Daily,Santander,,Studies,Yes,Daily,Studies,Male,Under 25,Student,,University,Santander,,2,2,1,2,2,1,2,2,1,2023-07-14 08:22:46.362526
+2023-07-14 08:22:47.601026,No,,,,,Don’t know/depends,Occasionally,Sport,Male,75 and over,Retired,,High School Diploma,Santander,,2,2,2,2,2,1,2,2,2,2023-07-14 08:26:48.472664
+2023-07-14 08:22:47.601026,No,,,,,Don’t know/depends,Occasionally,Sport,Male,75 and over,Retired,,High School Diploma,Santander,,2,2,1,2,2,1,2,2,2,2023-07-14 08:38:49.849889
+2023-07-14 08:43:09.986415,Yes,Occasionally,Santander,39012,Leisure,Yes,,,,35-44,Employee,Dependent,High School Diploma,Santander,,2,1,2,2,2,1,2,2,1,2023-07-14 08:56:48.055345
+2023-07-14 09:31:51.435801,Yes,Occasionally,Santander,,Leisure,Yes,Occasionally,Work,Female,35-44,Student,,University,Santander,39008,1,1,2,2,1,1,1,1,1,2023-07-14 09:46:11.195510
+2023-07-14 09:46:12.330546,Yes,Occasionally,Other,Sevilla,Leisure,Yes,Occasionally,Other,Male,25-34,Employee,Engineer,University,Santander,39007,1,1,1,1,1,1,2,2,2,2023-07-14 09:53:20.962970
+2023-07-14 10:17:42.114195,No,,,,,Yes,Weekly,Leisure,Female,25-34,Employee,Receptionist,High School Diploma,Santander,39007,1,1,1,1,1,1,1,1,1,2023-07-14 10:20:01.259014
+2023-07-14 10:17:16.654617,No,,,,,No,,,Male,45-54,Employee,Machining,High School Diploma,Santander,39009,,,,,,,,,,2023-07-14 10:23:14.495206
+2023-07-14 10:20:02.695733,No,,,,,Yes,Occasionally,Leisure,Female,55-64,Employee,Cook,School graduate,Santander,39001,1,1,2,2,1,2,1,1,1,2023-07-14 10:23:36.707151
+2023-07-14 10:23:15.765228,No,,,,,Yes,Occasionally,Leisure,Male,35-44,Retired,,University,Santander,39008,2,2,1,2,2,1,2,2,2,2023-07-14 10:26:15.723382
+2023-07-14 10:23:37.930219,Yes,Occasionally,Santander,,Leisure,Yes,Weekly,Leisure,Female,Under 25,Student,,University,Santander,39010,2,2,1,2,2,1,2,2,2,2023-07-14 10:27:45.167388
+2023-07-14 10:26:16.707911,No,,,,,No,,,Female,35-44,Employee,Saleswoman,High School Diploma,Santander,39005,,,,,,,,,,2023-07-14 10:27:48.458896
+2023-07-14 10:27:49.388595,No,,,,,Yes,Occasionally,Leisure,Female,35-44,Employee,Labor guidance,University,Santander,39010,2,2,1,2,2,1,2,2,2,2023-07-14 10:31:17.769870
+2023-07-14 10:27:46.464978,No,,,,,Yes,Occasionally,Other,Female,25-34,Unemployed,,University,Santander,39010,1,1,2,2,1,1,1,2,1,2023-07-14 10:31:35.934889
+2023-07-14 10:31:18.797749,No,,,,,Yes,Monthly,Leisure,Male,35-44,Employee,Engineer,University,Santander,39012,1,1,1,1,1,1,1,1,1,2023-07-14 10:33:31.565399
+2023-07-14 10:31:37.091991,No,,,,,No,,,Female,55-64,Retired,,School graduate,Santander,Fernando de los Ríos ,,,,,,,,,,2023-07-14 10:33:50.370311
+2023-07-14 10:33:32.622989,No,,,,,Yes,Daily,Work,Male,45-54,Employee,Infermer,University,Santander,39006,2,1,1,2,2,1,1,1,1,2023-07-14 10:36:50.994986
+2023-07-14 10:38:57.936112,No,,,,,No,,,Female,45-54,Employee,Saleswoman,High School Diploma,Santander,39010,,,,,,,,,,2023-07-14 10:43:09.741240
+2023-07-14 10:36:52.031213,No,,,,,Yes,Occasionally,Leisure,Female,Under 25,Student,,High School Diploma,Santander,39008,1,1,1,1,1,1,1,1,1,2023-07-14 10:45:05.296321
+2023-07-14 10:42:08.714521,No,,,,,Don’t know/depends,Monthly,Studies,Female,Under 25,Student,,High School Diploma,Santander,39008,1,1,1,2,1,1,1,1,1,2023-07-14 10:45:27.838008
+2023-07-14 10:43:11.704074,No,,,,,No,,,Female,45-54,Self-employed,Culture,University,Santander,39007,,,,,,,,,,2023-07-14 10:45:33.649294
+2023-07-14 10:45:06.281149,No,,,,,Yes,,,Male,Under 25,Student,,High School Diploma,Santander,39008,2,1,1,2,1,1,1,1,1,2023-07-14 10:47:09.281109
+2023-07-14 10:45:29.420911,No,,,,,Yes,Monthly,Studies,Female,Under 25,Student,,High School Diploma,Santander,39008,1,1,1,2,1,1,1,1,1,2023-07-14 10:47:21.998363
+2023-07-14 10:45:35.669252,No,,,,,No,,,Female,65-74,Retired,,High School,Santander,39006,,,,,,,,,,2023-07-14 10:47:38.423167
+2023-07-14 10:47:39.836616,Yes,Occasionally,Santander,,Leisure,Yes,Occasionally,Other,Male,Under 25,Student,,High School Diploma,Santander,39007,1,1,2,2,1,1,1,1,1,2023-07-14 10:52:12.429826
+2023-07-14 10:52:14.847338,No,,,,,Yes,Occasionally,Leisure,Male,Under 25,Student,,University,Santander,39012,2,1,2,2,1,2,2,1,1,2023-07-14 10:56:16.927726
+2023-07-14 10:56:18.589738,No,,,,,Don’t know/depends,Occasionally,Other,Female,45-54,Self-employed,Caretaker,High School Diploma,Santander,39005,2,1,2,2,1,1,2,2,1,2023-07-14 11:03:06.556520
+2023-07-14 10:47:10.240547,No,,,,,Yes,Occasionally,Leisure,Female,Under 25,Student,,High School Diploma,Santander,39010,1,1,1,2,1,1,1,1,1,2023-07-14 11:04:04.704246
+2023-07-14 10:47:23.861542,No,,,,,Yes,Occasionally,Leisure,Female,Under 25,Student,,University,Santander,39008,2,1,2,2,1,2,1,1,1,2023-07-14 11:05:05.355778
+2023-07-14 11:03:08.691114,No,,,,,Don’t know/depends,Occasionally,Leisure,Female,Under 25,Student,,University,Santander,39008,1,1,1,1,1,1,2,1,1,2023-07-14 11:07:02.972989
+2023-07-14 11:04:05.590320,No,,,,,Yes,Monthly,Studies,Female,Under 25,Student,,University,Santander,39012,1,1,1,2,2,1,2,2,2,2023-07-14 11:08:38.872301
+2023-07-14 11:05:07.193470,No,,,,,Yes,Weekly,Studies,Male,Under 25,Student,,High School Diploma,Santander,39012,2,1,1,2,1,1,2,2,2,2023-07-14 11:09:14.745426
