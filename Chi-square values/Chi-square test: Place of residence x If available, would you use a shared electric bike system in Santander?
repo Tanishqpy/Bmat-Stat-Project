@@ -1,0 +1,13 @@
+Chi-square test: Place of residence x If available, would you use a shared electric bike system in Santander? 
+----------------------------------------
+                  
+                   Don’t know/depends  No Yes
+  Cantabria                        13  14  45
+  Outside of Spain                  1   4  10
+  Santander                        37  72 114
+  Spain                             6  12  36
+
+Chi-square value: 8.741993 
+Degrees of freedom: 6 
+p-value: 0.1886165 
+Significant (p < 0.05): FALSE 

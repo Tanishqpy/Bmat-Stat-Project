@@ -1,0 +1,16 @@
+Chi-square test: Indicate your age x Have you ever used bikesharing (shared bicycles)? 
+----------------------------------------
+             
+              No Yes
+  25-34       40  19
+  35-44       36  19
+  45-54       44  11
+  55-64       53  13
+  65-74       31  10
+  75 and over 19   3
+  Under 25    51  15
+
+Chi-square value: 7.776459 
+Degrees of freedom: 6 
+p-value: 0.2549422 
+Significant (p < 0.05): FALSE 

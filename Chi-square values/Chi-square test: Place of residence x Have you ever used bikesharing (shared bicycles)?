@@ -1,0 +1,13 @@
+Chi-square test: Place of residence x Have you ever used bikesharing (shared bicycles)? 
+----------------------------------------
+                  
+                    No Yes
+  Cantabria         51  21
+  Outside of Spain  10   5
+  Santander        176  46
+  Spain             36  18
+
+Chi-square value: 5.412068 
+Degrees of freedom: 3 
+p-value: 0.1439936 
+Significant (p < 0.05): FALSE

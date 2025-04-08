@@ -1,0 +1,14 @@
+Chi-square test: Level of education x If available, would you use a shared electric bike system in Santander? 
+----------------------------------------
+                     
+                      Don’t know/depends  No Yes
+  High School                          6   7  14
+  High School Diploma                 21  34  70
+  None                                 4   2   1
+  School graduate                      6  17  11
+  University                          20  42 108
+
+Chi-square value: 24.17076 
+Degrees of freedom: 8 
+p-value: 0.00214545 
+Significant (p < 0.05): TRUE 

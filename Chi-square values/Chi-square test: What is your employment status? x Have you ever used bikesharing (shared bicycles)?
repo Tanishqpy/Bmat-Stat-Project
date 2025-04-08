@@ -1,0 +1,16 @@
+Chi-square test: What is your employment status? x Have you ever used bikesharing (shared bicycles)? 
+----------------------------------------
+               
+                 No Yes
+  1               1   0
+  Employee      117  43
+  Housework       9   5
+  Retired        58  14
+  Self-employed  17   8
+  Student        47  15
+  Unemployed     25   5
+
+Chi-square value: 4.47996 
+Degrees of freedom: 6 
+p-value: 0.612014 
+Significant (p < 0.05): FALSE 

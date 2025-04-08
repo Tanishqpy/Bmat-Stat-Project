@@ -1,0 +1,12 @@
+Chi-square test: Indicate your gender x Have you ever used bikesharing (shared bicycles)? 
+----------------------------------------
+
+                         No Yes
+  Female                151  42
+  Male                  116  47
+  Prefer not to specify   7   1
+
+Chi-square value: 3.031914 
+Degrees of freedom: 2 
+p-value: 0.2195979 
+Significant (p < 0.05): FALSE 

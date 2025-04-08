@@ -1,0 +1,16 @@
+Chi-square test: Indicate your age x If available, would you use a shared electric bike system in Santander? 
+----------------------------------------
+             
+              Don’t know/depends No Yes
+  25-34                       12 11  36
+  35-44                        8 15  33
+  45-54                        6 14  35
+  55-64                       13 19  34
+  65-74                        6 17  18
+  75 and over                  5 10   7
+  Under 25                     7 16  43
+
+Chi-square value: 17.06092 
+Degrees of freedom: 12 
+p-value: 0.1473201 
+Significant (p < 0.05): FALSE 

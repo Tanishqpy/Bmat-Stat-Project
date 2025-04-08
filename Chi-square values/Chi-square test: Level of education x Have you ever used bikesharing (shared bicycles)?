@@ -1,0 +1,14 @@
+Chi-square test: Level of education x Have you ever used bikesharing (shared bicycles)? 
+----------------------------------------
+                     
+                       No Yes
+  High School          18   9
+  High School Diploma 106  19
+  None                  6   1
+  School graduate      29   4
+  University          114  56
+
+Chi-square value: 16.6201 
+Degrees of freedom: 4 
+p-value: 0.002290571 
+Significant (p < 0.05): TRUE 

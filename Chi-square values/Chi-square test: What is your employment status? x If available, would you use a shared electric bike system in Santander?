@@ -1,0 +1,16 @@
+Chi-square test: What is your employment status? x If available, would you use a shared electric bike system in Santander? 
+----------------------------------------
+               
+                Don’t know/depends  No Yes
+  1                              0   1   0
+  Employee                      21  39 100
+  Housework                      6   4   4
+  Retired                       13  27  32
+  Self-employed                  6   6  13
+  Student                        7  13  42
+  Unemployed                     4  12  15
+
+Chi-square value: 24.39431 
+Degrees of freedom: 12 
+p-value: 0.01796873 
+Significant (p < 0.05): TRUE 
